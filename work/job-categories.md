@@ -1,4 +1,5 @@
 # Job Categories
+This is an overview of the types of jobs we hire for and how they are structured.
 
 ## Trial Period
 Everyone​ ​at​ ​Original​ ​starts​ ​out​ ​with​ ​a​ ​two-week​ ​to​ ​one-month trial​ ​&​ ​training​ ​period.​ ​If​ ​you’re​ ​training​ ​to​ ​do​ ​production work​ ​we​ ​often​ ​start​ ​you​ ​out​ ​a​ ​lower​ ​position​ ​and​ ​then​ ​graduate you​ ​to​ ​the​ ​next​ ​level​ ​and​ ​pay​ ​rate​ ​once​ ​you’re​ ​confident​ ​and trained​ ​on​ ​shipping​ ​products​ ​to​ ​customers.​ ​The​ ​level​ ​that​ ​you start​ ​at​ ​depends​ ​on​ ​your​ ​experience​ ​coming​ ​in​ ​and​ ​advancement depends​ ​on​ ​your​ ​time​ ​at​ ​the​ ​company​ ​and​ ​the​ ​quality​ ​of​ ​your work.
