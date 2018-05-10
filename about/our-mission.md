@@ -1,7 +1,5 @@
 # Our Mission
 
-_What is the reason our organization deserves to exist?_
-
 **Our mission is to inspire and aid the creativity of others.**
 
 We believe that unleashing human creativity is the most important factor in securing a better future for our planet. We are in a moment when we must reckon with the environmental crisis, social inequality, and humanity's relationship to technology. Creativity is more valuable and necessary than ever before.
