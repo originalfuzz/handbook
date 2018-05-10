@@ -1,0 +1,9 @@
+# Everyone Is a Maker
+Until​ ​you​ ​reach​ ​the​ ​level​ ​of​ ​a​ ​salaried​ ​employee,​ ​you’ll​ ​spend some​ ​of​ ​your​ ​time​ ​making​ ​products​ ​that​ ​ship​ ​to​ ​customers​ ​and some​ ​of​ ​your​ ​time​ ​on​ ​growth​ ​and​ ​operations,​ ​which​ ​includes things​ ​like​ ​marketing,​ ​sales,​ ​content​ ​development,​ ​photography, design,​ ​lowering​ ​costs,​ ​improving​ ​our​ ​supply​ ​chain,​ ​new​ ​product research,​ ​prototyping,​ ​etc.
+
+## Why This Structure?
+Product​ ​design​ ​and​ ​sales​ ​are​ ​inextricably​ ​connected.​ ​Marketing begins​ ​with​ ​understanding​ ​the​ ​audience​ ​for​ ​your​ ​product,​ ​which informs​ ​product​ ​design.​ ​Product​ ​design​ ​is​ ​constrained​ ​by​ ​options in​ ​the​ ​supply​ ​chain.​ ​The​ ​supply​ ​chain​ ​affects​ ​pricing,​ ​which​ ​is also​ ​influenced​ ​by​ ​what​ ​your​ ​audience​ ​is​ ​willing​ ​to​ ​pay.​ ​It's​ ​a continuous​ ​cycle.
+
+Everything​ ​essential​ ​to​ ​a​ ​product​ ​company’s​ ​success​ ​is connected.​ ​We​ ​want​ ​to​ ​hire​ ​the​ ​type​ ​of​ ​people​ ​who​ ​don’t​ ​mind getting​ ​their​ ​hands​ ​dirty,​ ​yet​ ​have​ ​the​ ​ability​ ​to​ ​manage​ ​other aspects​ ​of​ ​the​ ​company’s​ ​functions.​ ​This​ ​model​ ​of​ ​"everyone​ ​is​ ​a maker"​ ​applies​ ​to​ ​all​ ​hourly​ ​employees,​ ​but​ ​it​ ​doesn’t​ ​create​ ​a glass​ ​ceiling.​ ​As​ ​the​ ​company​ ​grows,​ ​people​ ​who​ ​help​ ​build​ ​the value​ ​of​ the​ ​company​ ​as​ ​hourly​ ​employees​ ​will​ ​be​ ​able​ ​to​ ​move​ ​up into​ ​higher-level​ ​roles.
+
+A​ ​company​ ​of​ ​makers—craftspeople​ ​in​ ​all​ ​areas—should​ ​be​ ​at​ ​the core​ ​of​ ​who​ ​we​ ​are,​ ​and​ ​rotating​ ​responsibilities​ ​is​ ​a​ ​way​ ​to bake​ ​this​ ​into​ ​our​ ​culture​ ​while​ ​giving​ ​smart,​ ​conscientious people​ ​a​ ​way​ ​to​ ​advance​ ​and​ ​expand​ ​their​ ​skills.​ ​It​ ​also​ ​gives us​ ​a​ ​sustainable​ ​production​ ​process​ ​by​ ​us​ ​addressing​ ​the​ ​problem of​ ​burnout​ ​on​ ​the​ ​production​ ​line.
