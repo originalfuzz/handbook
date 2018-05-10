@@ -26,7 +26,7 @@ In accepting a job at Original Fuzz you ​agree​ ​and​ ​understand​ �
 * [One Goal at a Time](https://github.com/originalfuzz/handbook/blob/master/about/one-goal.md)
 * [History](https://github.com/originalfuzz/handbook/blob/master/about/history.md)
 * [Strategic Position](https://github.com/originalfuzz/handbook/blob/master/about/strategy.md)
-* [Pricing Philosophy](/handbook/blob/master/about/pricing-philosophy.md)
+* [Pricing Philosophy](/blob/master/about/pricing-philosophy.md)
 
 ## How We Work
 * [What We Look for in Employees](#)
