@@ -27,7 +27,7 @@ Your life today is really just the sum of your habits. And, the only way to achi
 * Manual inventory count
 
 ### Annual
-* Fall planning meeting to plan our product roadmap, events schedule, and marketing strategy for the next year (before )
+* Fall planning meeting to plan our product roadmap, events schedule, and marketing strategy for the next year. We do this in the Fall before the holiday rush so we can take a break when the year ends and be ready to hit the ground running in January.
 * Annual Summer Sale
 * Fuzz Fest
 * Christmas Show

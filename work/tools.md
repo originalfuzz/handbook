@@ -1,5 +1,5 @@
 # Tools We Use
-These are the software tools we use to run our business. A lot of these processes should be detailed in the playbook, but here is a high-level overview of what we use.
+These are the software tools we use to run our business. A lot of these processes should be detailed in the [playbook](work/playbook.md), but here is a high-level overview of what we use.
 
 ## Basecamp
 * This is the central hub for everything we do.
