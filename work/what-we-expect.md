@@ -43,4 +43,4 @@ During an employee's time at the company and in​ ​the​ ​event​ ​that
 * Our HR software, Gusto, will send you any tax documents you need at the beginning of every year. These will be sent to the personal email address that you have set up in your Gusto account.
 * If at any point in time you need access to tax documents or your payroll history, you can login to Gusto.com using your email address. If you've forgotten your password, just request a password reset.
 * If you need to change your bank account for direct deposit you can log in and do that at any time.
-* When setting up your Gusto account we'll need you to sign your employment agreement as a part of the on-boarding process. 
+* When setting up your Gusto account we'll need you to sign your employment agreement as a part of the on-boarding process.
