@@ -16,7 +16,7 @@ In accepting a job at Original Fuzz you ​agree​ ​and​ ​understand​ �
 * Provide ​a​ ​framework​ ​for​ ​working​ ​together​ ​and​ ​spreading​ ​the wealth​ ​when​ ​the​ ​company​ ​succeeds.
 
 ## About Us
-* [Who​ ​are​ ​we​ ​for?](#)
+* [Who​ ​are​ ​we​ ​for?](/blob/master/about/who_we_are_for.md)
 * [What​ ​change​ ​do​ ​we​ ​seek​ ​to​ ​make?](#)
 * [What​ ​story​ ​are​ ​we​ ​telling?](#)
 * [What​ ​promise​ ​are​ ​we​ ​making?](#)
