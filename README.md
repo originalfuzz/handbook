@@ -1,5 +1,5 @@
 # Original Fuzz Employee Handbook
-This​ ​handbook​ ​provides​ ​a​ ​framework​ ​for​ ​how​ ​employment, expectations,​ ​advancement,​ ​and​ ​compensation​ ​work​ ​at​ ​Original Fuzz. It contains all the information and links to tools you'll need to hit the ground running.
+This​ ​handbook​ ​provides​ ​a​ ​framework​ ​for​ ​how​ ​employment, expectations,​ ​advancement,​ ​and​ ​compensation​ ​work​ ​at​ [​Original Fuzz](https://originalfuzz.com). It contains all the information and links to tools you'll need to hit the ground running.
 
 No​ ​employee​ ​handbook​ ​can​ ​anticipate​ ​every​ ​circumstance​ ​or question​ ​about​ ​policy​ ​and​ ​procedures.​ ​As​ ​Original​ ​Fuzz​ ​continues to​ ​grow,​ ​the​ ​need​ ​may​ ​arise​ ​and​ ​Original​ ​Fuzz​ ​reserves​ ​the​ ​right to​ ​change,​ ​add​ ​to​ ​or​ ​delete​ ​any​ ​policies​ ​or​ ​portion​ ​of​ ​the handbook​ ​from​ ​time-to-time​ ​as​ ​it​ ​deems​ ​appropriate,​ ​in​ ​its​ ​sole and​ ​absolute​ ​discretion.​ ​Employees​ ​will,​ ​of​ ​course,​ ​be​ ​notified of​ ​such​ ​changes​ ​to​ ​the​ ​handbook​ ​as​ ​they​ ​occur.
 
