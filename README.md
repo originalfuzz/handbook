@@ -17,16 +17,16 @@ In accepting a job at Original Fuzz you ​agree​ ​and​ ​understand​ �
 
 ## About Us
 * [Who​ ​are​ ​we​ ​for?](https://github.com/originalfuzz/handbook/blob/master/about/who_we_are_for.md)
-* [What​ ​change​ ​do​ ​we​ ​seek​ ​to​ ​make?](#)
-* [What​ ​story​ ​are​ ​we​ ​telling?](#)
-* [What​ ​promise​ ​are​ ​we​ ​making?](#)
-* [Our Mission: aka Why We Exist](#)
-* [Values](#)
-* [1% For Creativity](#)
-* [One Goal at a Time](#)
-* [History](#)
-* [Strategic Position](#)
-* [Pricing Philosophy](#)
+* [What​ ​change​ ​do​ ​we​ ​seek​ ​to​ ​make?](https://github.com/originalfuzz/handbook/blob/master/about/change_we_seek_to_make.md)
+* [What​ ​story​ ​are​ ​we​ ​telling?](https://github.com/originalfuzz/handbook/blob/master/about/story_we_tell.md)
+* [What​ ​promise​ ​are​ ​we​ ​making?](https://github.com/originalfuzz/handbook/blob/master/about/promise-we-make.md)
+* [Our Mission: aka Why We Exist](https://github.com/originalfuzz/handbook/blob/master/about/our-mission.md)
+* [Values](https://github.com/originalfuzz/handbook/blob/master/about/values.md)
+* [1% For Creativity](https://github.com/originalfuzz/handbook/blob/master/about/one-percent-pledge.md)
+* [One Goal at a Time](https://github.com/originalfuzz/handbook/blob/master/about/one-goal.md)
+* [History](https://github.com/originalfuzz/handbook/blob/master/about/history.md)
+* [Strategic Position](https://github.com/originalfuzz/handbook/blob/master/about/strategy.md)
+* [Pricing Philosophy](/handbook/blob/master/about/pricing-philosophy.md)
 
 ## How We Work
 * [What We Look for in Employees](#)
