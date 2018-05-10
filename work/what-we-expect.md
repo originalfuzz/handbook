@@ -13,6 +13,8 @@ During an employee's time at the company and in​ ​the​ ​event​ ​that
 ## Good Habits
 * Meetings are not your friend. In general meetings are a big waste of time, so only schedule them when their really needed and only include the people that really need to be there. Don't ever create a periodic standing meeting that just repeats on your calendar.
 * Inventory is not a good thing. We need to be as lean as we possibly can.
+* One is none and two is one.
+* Stay DRY - Don't Repeat Yourself. How can we adjust what we do so that we don't create unnecessary duplicate work?
 * When​ ​we​ ​notice​ ​something​ ​that​ ​could​ ​be​ ​better​ ​we​ ​take action​ ​to​ ​fix​ ​it.​ ​Even​ ​if​ ​that​ ​is​ ​just​ ​logging​ ​it​ ​in Basecamp​ ​to​ ​be​ ​addressed​ ​later.
 * We​ ​have​ ​a​ ​good​ ​attitude.​ ​We​ ​collaborate​ ​with​ ​others,​ ​and​ ​we aren't​ ​afraid​ ​to​ ​have​ ​a​ ​dissenting​ ​opinion​ ​that​ ​we​ ​share​ ​in a​ ​way​ ​that's​ ​respectful​ ​to​ ​everyone​ ​else.
 * We​ ​all​ ​participate​ ​in​ ​the​ ​marketing​ ​at​ ​the​ ​company—we​ ​help write​ ​blog​ ​posts,​ ​make​ ​video​ ​content,​ ​record​ ​podcasts,​ ​take photographs,​ ​make​ ​artwork,​ ​etc.

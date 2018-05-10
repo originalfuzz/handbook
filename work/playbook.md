@@ -1,10 +1,10 @@
 # Playbook
 
-_DRY - Don't repeat yourself. Be kind to others and your future self and help document your processes in the Playbook_
+_Be kind to your future self and your co-workers by helping document how we do things in the Playbook. Stay DRY: Don't Repeat Yourself. Save it the playbook so we can re-use it later._
+
+Specific things that we need to remember how to do should be saved in the "Playbook". Our playbook is a living document. It will evolve as we grow and change.
 
 There are a lot of specific things that are hard to remember, but that we need to be able to refer back to. This is everything from checklists on how to do something like ship an international wholesale order, to a video on how to sew a guitar strap, to a template for an email we find ourselves frequently writing.
-
-Everything like this that we need to share goes into a special project in Basecamp called "Playbook".
 
 We need everything to pitch in and keep this update as we change how we do things. The goal for this is that a new employee should be able to find everything they need to do their job in the playbook.
 
