@@ -16,9 +16,9 @@ In accepting a job at Original Fuzz you ​agree​ ​and​ ​understand​ �
 * Provide ​a​ ​framework​ ​for​ ​working​ ​together​ ​and​ ​spreading​ ​the wealth​ ​when​ ​the​ ​company​ ​succeeds.
 
 ## About Us
-* [Who​ ​are​ ​we​ ​for?](about/who_we_are_for.md)
-* [What​ ​change​ ​do​ ​we​ ​seek​ ​to​ ​make?](about/change_we_seek_to_make.md)
-* [What​ ​story​ ​are​ ​we​ ​telling?](about/story_we_tell.md)
+* [Who​ ​are​ ​we​ ​for?](about/who-we-are-for.md)
+* [What​ ​change​ ​do​ ​we​ ​seek​ ​to​ ​make?](about/change-we-seek-to-make.md)
+* [What​ ​story​ ​are​ ​we​ ​telling?](about/story-we-tell.md)
 * [What​ ​promise​ ​are​ ​we​ ​making?](about/promise-we-make.md)
 * [Our Mission: aka Why We Exist](about/our-mission.md)
 * [Values](about/values.md)
@@ -29,11 +29,10 @@ In accepting a job at Original Fuzz you ​agree​ ​and​ ​understand​ �
 * [Pricing Philosophy](about/pricing-philosophy.md)
 
 ## How We Work
-* [What We Look for in Employees](#)
-* [What We Expect from Employees](#)
-* [Everyone Is a Maker](#)
-* [Job Categories](#)
-* [How We Work](#)
-* [The Power of Habit](#)
-* [Tools We Use](#)
-* [Playbook](#)
+* [What We Look for in Employees](work/what-we-look-for.md)
+* [What We Expect from Employees](work/what-we-expect.md)
+* [Everyone Is a Maker](work/culture-of-makers.md)
+* [Job Categories](work/job-categories.md)
+* [The Power of Habit](work/habits.md)
+* [Tools We Use](work/tools.md)
+* [Playbook](work/playbook.md)
