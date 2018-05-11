@@ -2,11 +2,11 @@
 
 Welcome to Original Fuzz! The purpose of this memorandum is to outline and clarify your role, compensation, and our expectations for you as an employee at the company. If you have any questions about the following, just ask. We'll help you get up ­to ­speed.
 
-Employee Name: _[ MICHAEL JORDAN ]_
-Job: _[ ASSISTANT ]_
-Primary Role: _[ SEWING ]_
-Compensation: _[ $13.50 per hour, part time as production assistant ]_
-Trial Period: _[ 2 weeks, $12 per hour, followed by performance review ]_
+* Employee Name: _[ MICHAEL JORDAN ]_
+* Job: _[ ASSISTANT ]_
+* Primary Role: _[ SEWING ]_
+* Compensation: _[ $13.50 per hour, part time as production assistant ]_
+* Trial Period: _[ 2 weeks, $12 per hour, followed by performance review ]_
 
 By starting work at Original Fuzz, and with confirmation by your signature, you acknowledge and agree to the following:
 
