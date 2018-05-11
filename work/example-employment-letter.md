@@ -10,7 +10,7 @@ Welcome to Original Fuzz! The purpose of this memorandum is to outline and clari
 
 By starting work at Original Fuzz, and with confirmation by your signature, you acknowledge and agree to the following:
 
-* I've read, udnerstand and agree to comply with all provisions of the Original Fuzz Employee Handbook which can be found at https://originalfuzz.com/handbook
+* I've read, understand and agree to comply with all provisions of the Original Fuzz Employee Handbook which can be found at https://originalfuzz.com/handbook
 * I've read and agree to do my best to uphold the company's values and expectations outlined in the Employee Handbook.
 * Please download and read the current version of the Original Fuzz Employee handbook at originalfuzz.com/handbook. I agree to uphold the company's values and expectations as outlined in the Employee Handbook.
 
