@@ -32,6 +32,10 @@ During an employee's time at the company and in​ ​the​ ​event​ ​that
 * Please​ ​help​ ​us​ ​keep​ ​our​ ​shared​ ​workspace​ ​clean and recycle.​ ​Everyone pitches​ ​in​ ​on​ ​vacuuming,​ ​taking​ ​out​ ​the​ ​trash,​ ​etc.
 * Take a break. If you are working a full day, or more than a four-hour shift, please clock out and take a lunch break. Don't eat at your job. Not only is this a good idea, it's the law. Also, natural short breaks during shifts are encouraged within reason. Use your judgment and treat the company's resources how you would like to be treated. No need to clock out for these types of shorter breaks.
 
+
+## Safety
+* Some of the tools we use in the shop need to be handled with care, such as sewing machines, the Glowforge laser, or the Mighty Wonder clicker press. Be careful and use good judgment when working with these types of tools. Please read safety manuals when needed and make sure you've receive training from a colleague who is experienced with that tool. If you have any questions about how to do something safely, don't hesitate to ask a colleague or manager.
+
 ## Performance Reviews
 * Periodically​ ​we​ ​ask​ ​every​ ​employee​ ​to​ ​take​ ​a​ ​brief​ ​survey to​ ​give​ ​us​ ​feedback​ ​on​ ​how​ ​they're​ ​doing,​ ​what​ ​we​ ​can improve,​ ​etc.​ ​Then​ ​we'll​ ​follow​ ​this​ ​up​ ​with​ ​a​ ​meeting between​ ​managers​ ​and​ ​employees​ ​about​ ​job​ ​performance, things​ ​we'd​ ​like​ ​to​ ​improve​ ​about​ ​how​ ​we​ ​can​ ​work​ ​and collaborate​ ​better.
 * The​ ​feedback​ ​and​ ​review​ ​process​ ​is​ ​a​ ​two-way​ ​street​ ​and feedback​ ​should​ ​go​ ​both​ ​ways​ ​from​ ​manager​ ​to​ ​employee​ ​and vice​ ​versa.
